@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 5.md",
+                "file": "Java  se/字符串/字符串源码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 5"
+              "title": "字符串源码"
             }
           },
           {
@@ -198,7 +198,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
             }
           }
         ]
@@ -310,10 +310,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "663866f8f38df665",
+  "active": "52b19e2abc86f487",
   "lastOpenFiles": [
-    "报错/maven/找不到 jar 包.md",
     "未命名 5.md",
+    "Java  se/字符串/字符串源码.md",
+    "Java  se/字符串",
+    "报错/maven/找不到 jar 包.md",
     "报错/maven/maven无法导入.md",
     "课外知识/api.md",
     "课外知识/maven编译和启动编译.md",
@@ -346,14 +348,12 @@
     "今日新学/1010/队列/1.md",
     "思考",
     "java ee/泛型.md",
-    "java ee/反射.md",
     "Java  se/封装题库",
     "Redis",
     "苍穹外卖/两大思想/未命名.canvas",
     "Pasted image 20251009204125.png",
     "苍穹外卖/两大思想/题库",
     "苍穹外卖/两大思想/未命名.base",
-    "JVM",
     "今日新学/1008/share_image_1760027470322.jpeg",
     "今日新学/1008/share_image_1760026348004.jpeg",
     "2019-4死锁1-20230814005444749.png",
