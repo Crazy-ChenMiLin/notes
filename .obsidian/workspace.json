@@ -8,147 +8,80 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a507a694626fffc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "思考/选择java还是py.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "选择java还是py"
-            }
-          },
-          {
-            "id": "66c4c0705d8bb4bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法/队列/队列.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "队列"
-            }
-          },
-          {
             "id": "10947afdd978abc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "报错/maven/找不到 jar 包.md",
+                "file": "例会/11.16例会.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "找不到 jar 包"
+              "title": "11.16例会"
             }
           },
           {
-            "id": "663866f8f38df665",
+            "id": "7066e2f30fe900b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java  se/字符串/字符串源码.md",
+                "file": "全栈开发/前端的文件结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "字符串源码"
+              "title": "前端的文件结构"
             }
           },
           {
-            "id": "2f1a6cd4162b6157",
+            "id": "5eb22af6c6a32022",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "苍穹外卖/异常处理/事物处理.md",
+                "file": "Test/你好.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "事物处理"
+              "title": "你好"
             }
           },
           {
-            "id": "2f30bb79654fa4d6",
+            "id": "74b5ca67e1d26b74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "苍穹外卖/两大思想/Aop/AOP.md",
+                "file": "2025-11-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AOP"
+              "title": "2025-11-19"
             }
           },
           {
-            "id": "f0f38ec33af0140e",
+            "id": "e5b666e0cf181d11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "tlias项目/面试.md",
-                "mode": "source",
-                "source": false
+                "file": "例会/未命名.canvas",
+                "viewState": {
+                  "x": -51.63557879979723,
+                  "y": -15.840941682917475,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "面试"
-            }
-          },
-          {
-            "id": "d9f40edaeee9bcae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法/线性表/单链表.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "单链表"
-            }
-          },
-          {
-            "id": "9b67f3e426e65957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JVM/JVM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JVM"
-            }
-          },
-          {
-            "id": "69c1329cd330f591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JVM/JVM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JVM"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "导",
+                "query": "状态",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 267.5
   },
   "right": {
     "id": "cbbd8b17f492af73",
@@ -277,19 +210,9 @@
               "icon": "lucide-list",
               "title": "链表 的大纲"
             }
-          },
-          {
-            "id": "61944b9f072b3d5c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -298,7 +221,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "i18n:I18N": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -307,59 +230,61 @@
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "obsidian-git:Open Git source control": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "52b19e2abc86f487",
+  "active": "5eb22af6c6a32022",
   "lastOpenFiles": [
-    "未命名 5.md",
-    "Java  se/字符串/字符串源码.md",
-    "Java  se/字符串",
-    "报错/maven/找不到 jar 包.md",
-    "报错/maven/maven无法导入.md",
-    "课外知识/api.md",
-    "课外知识/maven编译和启动编译.md",
-    "课外知识/github技巧/代码的根目录.md",
-    "课外知识/github技巧/改私有.md",
-    "第三个项目/总结/项目总结.md",
-    "照片/Pasted image 20251108214846.png",
-    "照片/Pasted image 20251108214745.png",
-    "照片/best.onnx",
-    "第三个项目/米林需要干的事/摧毁和关闭问题和wesocket刷新问题.md",
-    "第三个项目/总结",
-    "未命名 4.md",
-    "算法/队列/队列.md",
-    "思考/图片预处理.md",
-    "算法/线性表/list.md",
-    "算法/存储结构.md",
-    "算法/排序算法.md",
-    "算法/递归/为什么需要递归.md",
-    "TCP和UDP/未命名.md",
-    "算法/递归",
-    "TCP和UDP/未命名.canvas",
-    "第三个项目/简介.md",
-    "第三个项目/数据库连接/1.md",
-    "照片/Pasted image 20251104215101.png",
-    "未命名 2.md",
-    "TCP和UDP",
-    "思考/选择java还是py.md",
-    "前端/第八天定位.md",
-    "未命名 1.md",
-    "今日新学/1010/队列/1.md",
-    "思考",
-    "java ee/泛型.md",
-    "Java  se/封装题库",
-    "Redis",
-    "苍穹外卖/两大思想/未命名.canvas",
-    "Pasted image 20251009204125.png",
-    "苍穹外卖/两大思想/题库",
-    "苍穹外卖/两大思想/未命名.base",
-    "今日新学/1008/share_image_1760027470322.jpeg",
-    "今日新学/1008/share_image_1760026348004.jpeg",
-    "2019-4死锁1-20230814005444749.png",
-    "照片/Pasted image 20251028232015.png",
-    "照片/Pasted image 20251028231826.png",
-    "照片/Pasted image 20251028230159.png",
+    "Pasted image 20251014192058.png",
+    "Test/你好.md",
+    "Test",
+    "Pasted image 20251014194432.png",
+    "Pasted image 20251014202412.png",
+    "Pasted image 20251014202446.png",
+    "Pasted image 20251014202934.png",
+    "Pasted image 20251015110859.png",
+    "Pasted image 20251015110949.png",
+    "Pasted image 20251015111036.png",
+    "Pasted image 20251015193312.png",
+    "Pasted image 20251020161615.png",
+    "Pasted image 20251023120502.png",
+    "服务器/redis和ssh端口号.md",
+    "服务器/ip和端口号和子网掩码.md",
+    "2025-11-25.md",
+    "JAVAweb/什么是ip.md",
+    "服务器",
+    "米林的项目们/苍穹外卖/知识点/DTO.md",
+    "米林的项目们/黑马点评/基础知识.md",
+    "米林的项目们/黑马点评/准备工程.md",
+    "今日新学/1014/未命名.md",
+    "今日新学/1014/启用禁用.md",
+    "今日新学/未命名.canvas",
+    "Java  se/数据类型与引用类型.md",
+    "Java  se/封装与包装类.md",
+    "Java  se/接口和类和Main和方法.md",
+    "十二周新学/字段和属性和成员变量.md",
+    "米林的项目们/tlias项目/spring生命周期.md",
+    "Java  se/封装题库/题.md",
+    "java ee/反射.md",
+    "java ee/线程/多线程/多线程.md",
+    "米林的项目们/gas/米林需要干的事/摧毁和关闭问题和wesocket刷新问题.md",
+    "课外知识/maven/clean方法.md",
+    "十二周新学",
+    "课外知识/clean和垃圾回收.md",
+    "课外知识/阿里代码格式.md",
+    "课外知识/maven/maven无法导入.md",
+    "课外知识/maven/jdk版本不对.md",
+    "课外知识/maven/如何导jar 包.md",
+    "未命名 1.base",
+    "米林的项目们/黑马点评",
+    "例会/未命名.canvas",
+    "米林的项目们",
+    "前端/css/未命名",
+    "报错/前端",
+    "其他语言",
+    "学习or日常感悟",
+    "java ee/TCP和UDP/未命名.canvas",
+    "米林的项目们/苍穹外卖/两大思想/未命名.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
