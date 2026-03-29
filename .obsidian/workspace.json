@@ -4,63 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "c94afdfa7e02133c",
+        "id": "809faee9884dfc09",
         "type": "tabs",
+        "dimension": 82.04620462046205,
         "children": [
           {
-            "id": "10947afdd978abc9",
+            "id": "ba9a0a1d7b71c1f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "例会/11.16例会.md",
+                "file": "每日打卡/行业前沿与文档博客/opencode与obsidian cli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.16例会"
+              "title": "opencode与obsidian cli"
             }
           },
           {
-            "id": "7066e2f30fe900b7",
+            "id": "790f7e5ced0ebcbb",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "_debug_remotely_save/sync_plans_hist_exported_on_1763455191868.md",
+                "bFile": "_debug_remotely_save/sync_plans_hist_exported_on_1763455191868.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: sync_plans_hist_exported_on_1763455191868"
+            }
+          },
+          {
+            "id": "73f8bf1f6acd3011",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-11-26.md",
+                "file": "框架/DDDvsMVC/MVC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-26"
-            }
-          },
-          {
-            "id": "5eb22af6c6a32022",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法/线性表/链表.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "链表"
-            }
-          },
-          {
-            "id": "74b5ca67e1d26b74",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "MVC"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7da74616db05f2a4",
+        "type": "tabs",
+        "dimension": 17.953795379537954,
+        "children": [
+          {
+            "id": "cf5fde79108bf0a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test/测试.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "测试"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "状态",
+                "query": "RPC",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 360.5
   },
   "right": {
     "id": "cbbd8b17f492af73",
@@ -173,7 +184,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -205,76 +216,80 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 575.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7066e2f30fe900b7",
+  "active": "790f7e5ced0ebcbb",
   "lastOpenFiles": [
-    "2025-11-25.md",
-    "服务器/todo.md",
-    "2025-11-26.md",
-    "服务器/redis和ssh端口号.md",
-    "服务器/ip和端口号和子网掩码.md",
-    "全栈开发/前端的文件结构.md",
-    "算法/线性表/链表.md",
+    "java ee/多线程与锁/锁/死锁.md",
+    "java ee/多线程与锁/锁/锁 1.md",
+    "java ee/多线程与锁/锁/锁的类型（ 同步代码块）.md",
+    "java ee/多线程与锁/锁/锁的同步方法.md",
+    "java ee/多线程与锁/锁/开锁和关锁.md",
+    "java ee/多线程与锁/锁/synchronize/可重入的场景.md",
+    "java ee/多线程与锁/线程/多线程/多线程共享对象.md",
+    "java ee/多线程与锁/线程/多线程/多线程的六种状态.md",
+    "java ee/多线程与锁/线程/多线程/多线程.md",
+    "Excalidraw/Drawing 2026-03-16 19.44.41.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-16 19.40.21.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-16 19.30.18.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-16 19.25.30.excalidraw.md",
+    "阿/promt.md",
+    "阿/提问.md",
+    "照片/未命名 1 2026-03-29 13.58.29.excalidraw.md",
+    "每日打卡/行业前沿与文档博客/opencode与obsidian cli.md",
+    "未命名.md",
+    "未命名 2.md",
+    "test/测试.md",
+    "agent.md",
+    "MySQL/数据库插入错误.md",
+    "框架/DDDvsMVC/MVC.md",
+    "照片/Pasted image 20250908182224.png",
+    "照片/Pasted image 20251118231908.png",
+    "MySQL/连接数据库的语法.md",
     "MySQL/错题.md",
-    "test2/新测试.md",
-    "Test/你好.md",
-    "test2",
-    "Test/czq.md",
-    "Pasted image 20251014192058.png",
-    "Test",
-    "Pasted image 20251014194432.png",
-    "Pasted image 20251014202412.png",
-    "Pasted image 20251014202446.png",
-    "Pasted image 20251014202934.png",
-    "Pasted image 20251015110859.png",
-    "Pasted image 20251015110949.png",
-    "Pasted image 20251015111036.png",
-    "Pasted image 20251015193312.png",
-    "Pasted image 20251020161615.png",
-    "JAVAweb/什么是ip.md",
-    "服务器",
-    "米林的项目们/苍穹外卖/知识点/DTO.md",
-    "米林的项目们/黑马点评/基础知识.md",
-    "米林的项目们/黑马点评/准备工程.md",
-    "今日新学/1014/未命名.md",
-    "今日新学/1014/启用禁用.md",
-    "今日新学/未命名.canvas",
-    "Java  se/数据类型与引用类型.md",
-    "Java  se/封装与包装类.md",
-    "Java  se/接口和类和Main和方法.md",
-    "十二周新学/字段和属性和成员变量.md",
-    "米林的项目们/tlias项目/spring生命周期.md",
-    "Java  se/封装题库/题.md",
-    "java ee/反射.md",
-    "java ee/线程/多线程/多线程.md",
-    "米林的项目们/gas/米林需要干的事/摧毁和关闭问题和wesocket刷新问题.md",
-    "十二周新学",
-    "未命名 1.base",
-    "米林的项目们/黑马点评",
-    "例会/未命名.canvas",
-    "米林的项目们",
-    "前端/css/未命名",
-    "报错/前端",
+    "test",
+    "寒假日记/second Plan/2026-03-28.md",
+    "照片/Pasted Image 20260325224418_106.png",
+    "照片/Pasted Image 20260325221849_720.png",
+    "照片/Pasted Image 20260325103449_686.png",
+    "照片/Pasted image 20260325103443.png",
+    "爬虫",
+    "其他语言/py",
     "其他语言",
+    "照片/Snipaste_2026-03-24_21-53-02.png",
+    "Pasted image 20251008205337.png",
+    "Pasted image 20251008203004.png",
+    "Pasted image 20251008202947.png",
+    "阿/思维导图模板.canvas",
+    "阿/anki-prompt",
+    "MySQL/错题",
+    "MySQL/知识点",
+    "LLM/AI/langchainfj",
+    "LLM/AI",
+    "每日打卡/学长们的产出/张家齐",
+    "米林的项目们/word-helper/未命名.canvas",
+    "github与git/冲突的类型及其解决方法.canvas",
     "java ee/TCP和UDP/未命名.canvas",
-    "米林的项目们/苍穹外卖/两大思想/未命名.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas"
+    "米林的项目们/gas/重构代码/业务流程.canvas",
+    "Java  se/数据类型/数据类型.canvas",
+    "未命名.canvas",
+    "寒假日记/Frist Plan/未命名.canvas",
+    "寒假日记/Frist Plan/未命名 1.canvas",
+    "模板库/思维导图.canvas"
   ]
 }
